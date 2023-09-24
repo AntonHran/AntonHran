@@ -41,3 +41,7 @@ I am a design engineer with a strong desire to develop in the field of Python so
   
 </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonHran&layout=donut&bg_color=3e454b&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
